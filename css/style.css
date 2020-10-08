@@ -12,7 +12,7 @@
     background-color: white;
     display: inline-block;
     width: 98vw;
-    border: 3px solid #e64e79;
+    border: 3px solid grey;
     border-radius: 5px;
     margin: 6px;
 }
@@ -40,7 +40,7 @@ a {
 
 button {
     border: none;
-    background-color: #e64e79;
+    background-color: blue;
     color: white;
     border-radius: 5px;
     padding: 10px 16px 10px 16px;
@@ -51,7 +51,7 @@ button {
 
 button:hover {
     transition-duration: 0.4s;
-    background-color: #ff80a4;
+    background-color: black;
 }
 
 #quiz {
